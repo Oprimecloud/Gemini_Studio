@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply transition-colors duration-500;
+  }
+}
+
+/* This allows Tailwind to control the light/dark mode properties */
+html.dark {
+  color-scheme: dark;
+}
