@@ -12,7 +12,7 @@
     "@supabase/supabase-js": "^2.43.0",
     "autoprefixer": "^10.5.2",
     "framer-motion": "^12.42.2",
-    "next": "14",
+    "next": "^16.2.10",
     "react": "^18",
     "react-dom": "^18"
   },
